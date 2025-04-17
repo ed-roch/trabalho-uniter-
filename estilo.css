@@ -1,4 +1,6 @@
 body{ color: withe;}
 ul{
   display: flex;
-  justify-content: space-between;}
+  justify-content: space-between;
+  list-style-type: nome;
+}
