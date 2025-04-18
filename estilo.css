@@ -1,6 +1,7 @@
-body{ color: withe;}
-ul{
+body{
+  color: white;
+} ul {
   display: flex;
   justify-content: space-between;
-  list-style-type: nome;
+  list-style-type: none;
 }
